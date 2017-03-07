@@ -1,0 +1,5 @@
+Database used : Microsoft Access
+
+dsn name-  Slambook
+owner name -lakshay
+password=123
